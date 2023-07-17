@@ -1,2 +1,2 @@
 #!/bin/bash
-tar tzvf iacta.tar.gz | less
+head -n 3 iacta
